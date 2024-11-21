@@ -1,9 +1,6 @@
-# Tech-Talks
-Repository containing Tech Talks resources for students across all bootcamps.
+# 🎒 Tech Talks Backpack
 
-# 🎒 Lecture Backpack
-
-Welcome to the Lecture Backpack 🚀, a comprehensive resource repository. Our goal is to provide an all-encompassing learning experience that caters to a wide range of educational needs, from basic programming concepts to specialized topics in various tech fields.
+Welcome to the Tech Talks Backpack 🚀, a comprehensive resource repository. Our goal is to provide an all-encompassing learning experience that caters to a wide range of educational needs, from basic programming concepts to specialized topics in various tech fields.
 
 ## Overview 📚
 
